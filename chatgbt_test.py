@@ -1,4 +1,4 @@
-# A program to receive an instruction and create a response using the ChatGBT API.
+# A program to simulate a chat with the chatGBT bot using the ChatGBT API and python.
 import sys
 import openai
 import key
